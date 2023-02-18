@@ -1,0 +1,138 @@
+{
+  "metadata": {
+    "kernelspec": {
+      "name": "python",
+      "display_name": "Pyolite",
+      "language": "python"
+    },
+    "language_info": {
+      "codemirror_mode": {
+        "name": "python",
+        "version": 3
+      },
+      "file_extension": ".py",
+      "mimetype": "text/x-python",
+      "name": "python",
+      "nbconvert_exporter": "python",
+      "pygments_lexer": "ipython3",
+      "version": "3.8"
+    }
+  },
+  "nbformat_minor": 4,
+  "nbformat": 4,
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "source": "<center>\n    <img src=\"https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0105EN-SkillsNetwork/labs/Module2/images/SN_web_lightmode.png\" width=\"300\" alt=\"cognitiveclass.ai logo\">\n</center>\n",
+      "metadata": {}
+    },
+    {
+      "cell_type": "markdown",
+      "source": "#### Add your code below following the instructions given in the course\n",
+      "metadata": {
+        "tags": []
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": "**My Jupyter Notebook on IBM Watson Studio",
+      "metadata": {}
+    },
+    {
+      "cell_type": "markdown",
+      "source": "**Nadia khan",
+      "metadata": {}
+    },
+    {
+      "cell_type": "markdown",
+      "source": "*I want to utilize data science in Chemcial Engineering for fault diagnosis \n",
+      "metadata": {}
+    },
+    {
+      "cell_type": "markdown",
+      "source": "**This code will add and multiply two variables",
+      "metadata": {}
+    },
+    {
+      "cell_type": "code",
+      "source": "a=2\nb=5",
+      "metadata": {
+        "trusted": true
+      },
+      "execution_count": 8,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": "x=a+b",
+      "metadata": {
+        "trusted": true
+      },
+      "execution_count": 9,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": "y=a*b",
+      "metadata": {
+        "trusted": true
+      },
+      "execution_count": 10,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": "z= 3*a",
+      "metadata": {
+        "trusted": true
+      },
+      "execution_count": 15,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": "m=4*a*b",
+      "metadata": {
+        "trusted": true
+      },
+      "execution_count": 16,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": "n=m+z\n",
+      "metadata": {
+        "trusted": true
+      },
+      "execution_count": 17,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": "print(x,y,m,n)",
+      "metadata": {
+        "trusted": true
+      },
+      "execution_count": 18,
+      "outputs": [
+        {
+          "name": "stdout",
+          "text": "7 10 40 46\n",
+          "output_type": "stream"
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": "**Continual effort, not strength or intelligence, is the key to unlocking our potential\n",
+      "metadata": {}
+    },
+    {
+      "cell_type": "code",
+      "source": "",
+      "metadata": {},
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
